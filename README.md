@@ -1,2 +1,3 @@
 # QCBasics
- quantum comp
+ quantum computing<br>
+ elementary exercises & learning qiskit
